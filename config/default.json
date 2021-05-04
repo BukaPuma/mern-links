@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "tesla youtube mern",
+    "mongoUri": "mongodb+srv://melvia:tesla1961@cluster0.cabdh.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl" : "http://localhost:5000"
+}
